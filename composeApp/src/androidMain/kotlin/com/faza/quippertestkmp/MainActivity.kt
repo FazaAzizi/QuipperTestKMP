@@ -1,6 +1,6 @@
 package com.faza.quippertestkmp
 
-import App
+import app.App
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
