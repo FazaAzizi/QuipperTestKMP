@@ -7,6 +7,7 @@ plugins {
     alias(libs.plugins.androidApplication)
     alias(libs.plugins.jetbrainsCompose)
     alias(libs.plugins.compose.compiler)
+    alias(libs.plugins.kotlinSerialization)
 }
 
 kotlin {
@@ -47,6 +48,7 @@ kotlin {
             implementation(libs.decompose)
             implementation(libs.decompose.jetbrains)
             implementation(libs.kotlinx.serialization.json)
+            api(libs.imageloader)
         }
     }
 }
