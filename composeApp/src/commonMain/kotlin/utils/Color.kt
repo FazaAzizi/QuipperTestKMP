@@ -38,6 +38,3 @@ val gray400 = "#9AA4B2".toColor()
 val gray500 = "#697586".toColor()
 val gray600 = "#475467".toColor()
 val gray700 = "#364152".toColor()
-
-val primaryDark = "#172B4D".toColor()
-val primaryWhite = "#FFFFFF".toColor()

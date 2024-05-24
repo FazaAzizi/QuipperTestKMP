@@ -18,6 +18,7 @@ import com.arkivanov.decompose.extensions.compose.jetbrains.subscribeAsState
 import navigation.RootNavigation
 import org.jetbrains.compose.resources.painterResource
 import org.jetbrains.compose.ui.tooling.preview.Preview
+import presentation.CourseDetailScreen
 import presentation.CourseListScreen
 
 import quippertestkmp.composeapp.generated.resources.Res
@@ -36,6 +37,12 @@ fun App(root: RootNavigation) {
             when(val instance = child.instance) {
                 is RootNavigation.Child.CourseList -> {
                     CourseListScreen(route = instance.component)
+                }
+                is RootNavigation.Child.CourseDetail -> {
+                    CourseDetailScreen(
+                        route = instance.component,
+                        data = instance.data
+                    )
                 }
             }
         }

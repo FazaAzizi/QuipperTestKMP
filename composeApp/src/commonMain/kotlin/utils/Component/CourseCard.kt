@@ -2,6 +2,7 @@ package utils.Component
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.Image
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -29,16 +30,17 @@ import quippertestkmp.composeapp.generated.resources.Res
 import quippertestkmp.composeapp.generated.resources.compose_multiplatform
 import utils.dark01
 import utils.gray100
-import utils.primaryWhite
 
 @Composable
 fun CourseCard(
-    data: CourseEntity
+    data: CourseEntity,
+    onClick: () -> Unit
 ) {
     Card(
         modifier = Modifier
             .fillMaxWidth()
-            .height(120.dp),
+            .height(120.dp)
+            .clickable { onClick() },
         shape = RoundedCornerShape(8.dp),
         border = BorderStroke(1.dp, gray100),
     ) {

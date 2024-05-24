@@ -5,9 +5,12 @@ import com.arkivanov.decompose.router.stack.StackNavigation
 import com.arkivanov.decompose.router.stack.childStack
 import com.arkivanov.decompose.router.stack.pop
 import com.arkivanov.decompose.router.stack.push
-import com.arkivanov.decompose.router.stack.replaceAll
-import com.arkivanov.decompose.router.stack.replaceCurrent
+import domain.CourseEntity
 import kotlinx.serialization.Serializable
+import navigation.course_detail.CourseDetailNavigation
+import navigation.course_detail.CourseDetailRoute
+import navigation.course_list.CourseListNavigation
+import navigation.course_list.CourseListRoute
 
 class RootNavigation(
     context: ComponentContext
@@ -33,9 +36,22 @@ class RootNavigation(
                     CourseListNavigation (
                         context = context,
                         onClickData =  {
-
+                            navigation.push(Configuration.CourseDetail(it))
                         }
                     )
+                )
+            }
+
+            is Configuration.CourseDetail -> {
+                val data = config.data
+                Child.CourseDetail(
+                    component = CourseDetailNavigation(
+                        context = context,
+                        onClickBack = {
+                            navigation.pop()
+                        }
+                    ),
+                    data = data
                 )
             }
         }
@@ -43,11 +59,18 @@ class RootNavigation(
 
     sealed class Child {
         data class CourseList(val component: CourseListRoute) : Child()
+        data class CourseDetail(val component: CourseDetailRoute, val data: CourseEntity) :
+            Child()
     }
 
     @Serializable
     sealed class Configuration {
         @Serializable
         data object CourseList : Configuration()
+
+        @Serializable
+        data class CourseDetail(
+            val data: CourseEntity
+        ) : Configuration()
     }
 }
