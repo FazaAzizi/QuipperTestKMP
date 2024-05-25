@@ -5,11 +5,13 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 data class CourseEntity (
+    @SerialName("title")
     val title: String,
 
     @SerialName("presenter_name")
     val presenterName: String,
 
+    @SerialName("description")
     val description: String,
 
     @SerialName("thumbnail_url")
