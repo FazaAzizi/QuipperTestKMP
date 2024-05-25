@@ -33,7 +33,6 @@ import domain.CourseEntity
 import navigation.course_detail.CourseDetailRoute
 import org.jetbrains.compose.resources.painterResource
 import quippertestkmp.composeapp.generated.resources.Res
-import quippertestkmp.composeapp.generated.resources.ic_arrow
 import quippertestkmp.composeapp.generated.resources.ic_arrow_back
 import utils.dark01
 
@@ -122,7 +121,7 @@ fun CourseDetailScreen(
 
                         Spacer(modifier = Modifier.height(4.dp))
                         Text(
-                            text = "Duration : ${data.videoDuration}",
+                            text = "Duration : ${formatDuration(data.videoDuration)}",
                             fontSize = 14.sp,
                             color = dark01
                         )
@@ -142,4 +141,11 @@ fun CourseDetailScreen(
             }
         }
     )
+}
+
+fun formatDuration(durationMs: Long): String {
+    val totalSeconds = durationMs / 1000
+    val minutes = totalSeconds / 60
+    val seconds = totalSeconds % 60
+    return "${minutes} minute ${seconds} seconds"
 }

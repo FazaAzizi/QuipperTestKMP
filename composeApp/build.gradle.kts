@@ -49,6 +49,7 @@ kotlin {
             implementation(libs.decompose.jetbrains)
             implementation(libs.kotlinx.serialization.json)
             api(libs.imageloader)
+
         }
     }
 }

@@ -1,58 +1,62 @@
 [
     {
-        "merged": "com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-merged_res-45:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-androidMain-46:/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.faza.quippertestkmp.composeApp-merged_res-45:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.faza.quippertestkmp.composeApp-androidMain-46:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-merged_res-45:/drawable_ic_search.xml.flat",
+        "source": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-main-48:/drawable/ic_search.xml"
     },
     {
-        "merged": "com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "com.faza.quippertestkmp.composeApp-merged_res-45:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.faza.quippertestkmp.composeApp-androidMain-46:/drawable/ic_launcher_background.xml"
+        "merged": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-merged_res-45:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-androidMain-46:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-merged_res-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/mbpm1/.gradle/daemon/8.2/com.faza.quippertestkmp.composeApp-androidMain-46:/drawable/ic_launcher_background.xml"
     }
 ]
