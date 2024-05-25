@@ -7,6 +7,9 @@ plugins {
     alias(libs.plugins.androidApplication)
     alias(libs.plugins.jetbrainsCompose)
     alias(libs.plugins.compose.compiler)
+    alias(libs.plugins.kotlinSerialization)
+    alias(libs.plugins.kmpNativeCoroutines)
+
 }
 
 kotlin {
@@ -33,6 +36,8 @@ kotlin {
         androidMain.dependencies {
             implementation(compose.preview)
             implementation(libs.androidx.activity.compose)
+            implementation(libs.ktor.client.okhttp)
+            implementation(libs.chucker)
         }
         commonMain.dependencies {
             implementation(compose.runtime)
@@ -41,6 +46,47 @@ kotlin {
             implementation(compose.ui)
             implementation(compose.components.resources)
             implementation(compose.components.uiToolingPreview)
+
+            //core
+            implementation("com.russhwolf:multiplatform-settings-no-arg:1.0.0-RC")
+            implementation(libs.decompose)
+            implementation(libs.decompose.jetbrains)
+            implementation(libs.kotlinx.serialization.json)
+            api(libs.imageloader)
+
+
+            //kermit logger
+            api(libs.kermit)
+            implementation(libs.stately)
+
+            //ktor
+            implementation(libs.ktor.client.core)
+            implementation(libs.ktor.client.auth)
+            implementation(libs.ktor.client.cio)
+            implementation(libs.ktor.client.logging)
+            implementation(libs.ktor.client.serialization)
+            implementation(libs.ktor.client.encoding)
+            implementation(libs.ktor.client.content.negotiation)
+            implementation(libs.ktor.serialization.kotlinx.json)
+
+            //kermit logger
+            api(libs.kermit)
+            implementation(libs.stately)
+            //koin
+            implementation(libs.koin.core)
+            implementation(libs.koin.compose)
+
+            //gson
+            implementation(libs.gson)
+
+            //viewmodel
+            api(libs.mvvm.core)
+            api(libs.mvvm.compose)
+
+            //permission
+            implementation(libs.permissions)
+            implementation(libs.permissions.compose)
+
         }
     }
 }
@@ -60,6 +106,7 @@ android {
         versionCode = 1
         versionName = "1.0"
     }
+
     packaging {
         resources {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
@@ -79,6 +126,12 @@ android {
     }
     dependencies {
         debugImplementation(compose.uiTooling)
+        implementation(libs.koin.core)
+        implementation(libs.koin.android)
+        implementation(libs.koin.compose)
+
+        implementation(libs.permissions)
+        implementation(libs.permissions.compose)
     }
 }
 
