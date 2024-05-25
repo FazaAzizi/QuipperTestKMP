@@ -6,9 +6,9 @@
 #import <Foundation/NSString.h>
 #import <Foundation/NSValue.h>
 
-@class ComposeAppKtor_client_coreHttpClient, ComposeAppKermitLogger, ComposeAppApiRoutes, ComposeAppKotlinEnumCompanion, ComposeAppKotlinEnum<E>, ComposeAppApiStatus, ComposeAppKotlinArray<T>, ComposeAppNetworkResult<__covariant T>, ComposeAppNetworkResultError<__covariant T>, ComposeAppNetworkResultLoading<__covariant T>, ComposeAppNetworkResultSuccess<__covariant T>, ComposeAppCourseEntityCompanion, ComposeAppCourseEntity, ComposeAppRootNavigationConfiguration, ComposeAppRootNavigationChild, ComposeAppDecomposeChildStack<__covariant C, __covariant T>, ComposeAppDecomposeValue<__covariant T>, ComposeAppRootNavigationChildCourseDetail, ComposeAppRootNavigationChildCourseList, ComposeAppRootNavigationConfigurationCompanion, ComposeAppRootNavigationConfigurationCourseDetailCompanion, ComposeAppRootNavigationConfigurationCourseDetail, ComposeAppRootNavigationConfigurationCourseList, ComposeAppMvvm_coreViewModel, ComposeAppNetworkRepository, ComposeAppCourseListViewModelCourseListScreenState, ComposeAppCourseListViewModelCourseListScreenStateError, ComposeAppCourseListViewModelCourseListScreenStateLoading, ComposeAppCourseListViewModelCourseListScreenStateSuccess, UIViewController, NSString, ComposeAppKotlinx_serialization_jsonJson, ComposeAppKtor_httpURLProtocol, ComposeAppKoin_coreModule, ComposeAppKtor_client_coreHttpClientEngineConfig, ComposeAppKtor_client_coreHttpClientConfig<T>, ComposeAppKtor_eventsEvents, ComposeAppKtor_client_coreHttpReceivePipeline, ComposeAppKtor_client_coreHttpRequestPipeline, ComposeAppKtor_client_coreHttpResponsePipeline, ComposeAppKtor_client_coreHttpSendPipeline, ComposeAppKermitLoggerCompanion, ComposeAppKotlinThrowable, ComposeAppKermitSeverity, ComposeAppLifecycleLifecycleState, ComposeAppBack_handlerBackCallback, ComposeAppDecomposeChildCreated<__covariant C, __covariant T>, ComposeAppKotlinException, ComposeAppKotlinRuntimeException, ComposeAppKotlinIllegalStateException, ComposeAppKotlinx_serialization_coreSerializersModule, ComposeAppKotlinx_serialization_jsonJsonDefault, ComposeAppKotlinx_serialization_jsonJsonElement, ComposeAppKotlinx_serialization_jsonJsonConfiguration, ComposeAppKtor_httpURLProtocolCompanion, ComposeAppKoin_coreKoinDefinition<R>, ComposeAppKoin_coreScope, ComposeAppKoin_coreParametersHolder, ComposeAppKoin_coreInstanceFactory<T>, ComposeAppKoin_coreSingleInstanceFactory<T>, ComposeAppKoin_coreScopeDSL, ComposeAppKtor_client_coreHttpRequestData, ComposeAppKtor_client_coreHttpResponseData, ComposeAppKotlinx_coroutines_coreCoroutineDispatcher, ComposeAppKtor_client_coreProxyConfig, ComposeAppKtor_utilsAttributeKey<T>, ComposeAppKtor_eventsEventDefinition<T>, ComposeAppKtor_utilsPipelinePhase, ComposeAppKtor_utilsPipeline<TSubject, TContext>, ComposeAppKtor_client_coreHttpReceivePipelinePhases, ComposeAppKtor_client_coreHttpResponse, ComposeAppKotlinUnit, ComposeAppKtor_client_coreHttpRequestPipelinePhases, ComposeAppKtor_client_coreHttpRequestBuilder, ComposeAppKtor_client_coreHttpResponsePipelinePhases, ComposeAppKtor_client_coreHttpResponseContainer, ComposeAppKtor_client_coreHttpClientCall, ComposeAppKtor_client_coreHttpSendPipelinePhases, ComposeAppKermitLogWriter, ComposeAppKotlinx_serialization_coreSerialKind, ComposeAppKotlinNothing, ComposeAppBack_handlerBackCallbackCompanion, ComposeAppBack_handlerBackEvent, ComposeAppDecomposeChild<__covariant C, __covariant T>, ComposeAppKotlinx_serialization_jsonJsonElementCompanion, ComposeAppKoin_coreLockable, ComposeAppKoin_coreKoin, ComposeAppKotlinLazyThreadSafetyMode, ComposeAppStately_concurrencyThreadLocalRef<T>, ComposeAppKoin_coreLogger, ComposeAppKoin_coreBeanDefinition<T>, ComposeAppKoin_coreInstanceFactoryCompanion, ComposeAppKoin_coreInstanceContext, ComposeAppKtor_httpUrl, ComposeAppKtor_httpHttpMethod, ComposeAppKtor_httpOutgoingContent, ComposeAppKtor_httpHttpStatusCode, ComposeAppKtor_utilsGMTDate, ComposeAppKtor_httpHttpProtocolVersion, ComposeAppKotlinAbstractCoroutineContextElement, ComposeAppKotlinx_coroutines_coreCoroutineDispatcherKey, ComposeAppKtor_httpHeadersBuilder, ComposeAppKtor_client_coreHttpRequestBuilderCompanion, ComposeAppKtor_httpURLBuilder, ComposeAppKtor_utilsTypeInfo, ComposeAppKtor_client_coreHttpClientCallCompanion, ComposeAppBack_handlerBackEventSwipeEdge, ComposeAppKoin_coreExtensionManager, ComposeAppKoin_coreInstanceRegistry, ComposeAppKoin_corePropertyRegistry, ComposeAppKoin_coreScopeRegistry, ComposeAppKoin_coreLevel, ComposeAppKoin_coreKind, ComposeAppKoin_coreCallbacks<T>, ComposeAppKtor_httpUrlCompanion, ComposeAppKtor_httpHttpMethodCompanion, ComposeAppKtor_httpContentType, ComposeAppKotlinCancellationException, ComposeAppKtor_httpHttpStatusCodeCompanion, ComposeAppKtor_utilsGMTDateCompanion, ComposeAppKtor_utilsWeekDay, ComposeAppKtor_utilsMonth, ComposeAppKtor_httpHttpProtocolVersionCompanion, ComposeAppKotlinAbstractCoroutineContextKey<B, E>, ComposeAppKtor_ioMemory, ComposeAppKtor_ioChunkBuffer, ComposeAppKtor_ioBuffer, ComposeAppKotlinByteArray, ComposeAppKtor_ioByteReadPacket, ComposeAppKtor_utilsStringValuesBuilderImpl, ComposeAppKtor_httpURLBuilderCompanion, ComposeAppKoin_coreScopeRegistryCompanion, ComposeAppKtor_httpHeaderValueParam, ComposeAppKtor_httpHeaderValueWithParametersCompanion, ComposeAppKtor_httpHeaderValueWithParameters, ComposeAppKtor_httpContentTypeCompanion, ComposeAppKtor_utilsWeekDayCompanion, ComposeAppKtor_utilsMonthCompanion, ComposeAppKtor_ioMemoryCompanion, ComposeAppKtor_ioBufferCompanion, ComposeAppKtor_ioChunkBufferCompanion, ComposeAppKotlinByteIterator, ComposeAppKtor_ioInputCompanion, ComposeAppKtor_ioInput, ComposeAppKtor_ioByteReadPacketCompanion, ComposeAppKotlinKTypeProjection, ComposeAppKotlinKVariance, ComposeAppKotlinKTypeProjectionCompanion;
+@class ComposeAppKtor_client_coreHttpClient, ComposeAppKotlinThrowable, ComposeAppKotlinArray<T>, ComposeAppKotlinException, ComposeAppApiExceptionCompanion, ComposeAppApiException, ComposeAppApiError, ComposeAppKermitLogger, ComposeAppApiRoutes, ComposeAppKotlinEnumCompanion, ComposeAppKotlinEnum<E>, ComposeAppApiStatus, ComposeAppNetworkResult<__covariant T>, ComposeAppNetworkResultError<__covariant T>, ComposeAppNetworkResultLoading<__covariant T>, ComposeAppNetworkResultSuccess<__covariant T>, ComposeAppCourseEntityCompanion, ComposeAppCourseEntity, ComposeAppRootNavigationConfiguration, ComposeAppRootNavigationChild, ComposeAppDecomposeChildStack<__covariant C, __covariant T>, ComposeAppDecomposeValue<__covariant T>, ComposeAppRootNavigationChildCourseDetail, ComposeAppRootNavigationChildCourseList, ComposeAppRootNavigationConfigurationCompanion, ComposeAppRootNavigationConfigurationCourseDetailCompanion, ComposeAppRootNavigationConfigurationCourseDetail, ComposeAppRootNavigationConfigurationCourseList, ComposeAppMvvm_coreViewModel, ComposeAppNetworkRepository, ComposeAppCourseListViewModelCourseListScreenState, ComposeAppCourseListViewModelCourseListScreenStateError, ComposeAppCourseListViewModelCourseListScreenStateLoading, ComposeAppCourseListViewModelCourseListScreenStateSuccess, UIViewController, NSString, ComposeAppKotlinx_serialization_jsonJson, ComposeAppKtor_httpURLProtocol, ComposeAppKoin_coreModule, ComposeAppKtor_client_coreHttpClientEngineConfig, ComposeAppKtor_client_coreHttpClientConfig<T>, ComposeAppKtor_eventsEvents, ComposeAppKtor_client_coreHttpReceivePipeline, ComposeAppKtor_client_coreHttpRequestPipeline, ComposeAppKtor_client_coreHttpResponsePipeline, ComposeAppKtor_client_coreHttpSendPipeline, ComposeAppKermitLoggerCompanion, ComposeAppKermitSeverity, ComposeAppLifecycleLifecycleState, ComposeAppBack_handlerBackCallback, ComposeAppDecomposeChildCreated<__covariant C, __covariant T>, ComposeAppKotlinRuntimeException, ComposeAppKotlinIllegalStateException, ComposeAppKotlinx_serialization_coreSerializersModule, ComposeAppKotlinx_serialization_jsonJsonDefault, ComposeAppKotlinx_serialization_jsonJsonElement, ComposeAppKotlinx_serialization_jsonJsonConfiguration, ComposeAppKtor_httpURLProtocolCompanion, ComposeAppKoin_coreKoinDefinition<R>, ComposeAppKoin_coreScope, ComposeAppKoin_coreParametersHolder, ComposeAppKoin_coreInstanceFactory<T>, ComposeAppKoin_coreSingleInstanceFactory<T>, ComposeAppKoin_coreScopeDSL, ComposeAppKtor_client_coreHttpRequestData, ComposeAppKtor_client_coreHttpResponseData, ComposeAppKotlinx_coroutines_coreCoroutineDispatcher, ComposeAppKtor_client_coreProxyConfig, ComposeAppKtor_utilsAttributeKey<T>, ComposeAppKtor_eventsEventDefinition<T>, ComposeAppKtor_utilsPipelinePhase, ComposeAppKtor_utilsPipeline<TSubject, TContext>, ComposeAppKtor_client_coreHttpReceivePipelinePhases, ComposeAppKtor_client_coreHttpResponse, ComposeAppKotlinUnit, ComposeAppKtor_client_coreHttpRequestPipelinePhases, ComposeAppKtor_client_coreHttpRequestBuilder, ComposeAppKtor_client_coreHttpResponsePipelinePhases, ComposeAppKtor_client_coreHttpResponseContainer, ComposeAppKtor_client_coreHttpClientCall, ComposeAppKtor_client_coreHttpSendPipelinePhases, ComposeAppKotlinx_serialization_coreSerialKind, ComposeAppKotlinNothing, ComposeAppKermitLogWriter, ComposeAppBack_handlerBackCallbackCompanion, ComposeAppBack_handlerBackEvent, ComposeAppDecomposeChild<__covariant C, __covariant T>, ComposeAppKotlinx_serialization_jsonJsonElementCompanion, ComposeAppKoin_coreLockable, ComposeAppKoin_coreKoin, ComposeAppKotlinLazyThreadSafetyMode, ComposeAppStately_concurrencyThreadLocalRef<T>, ComposeAppKoin_coreLogger, ComposeAppKoin_coreBeanDefinition<T>, ComposeAppKoin_coreInstanceFactoryCompanion, ComposeAppKoin_coreInstanceContext, ComposeAppKtor_httpUrl, ComposeAppKtor_httpHttpMethod, ComposeAppKtor_httpOutgoingContent, ComposeAppKtor_httpHttpStatusCode, ComposeAppKtor_utilsGMTDate, ComposeAppKtor_httpHttpProtocolVersion, ComposeAppKotlinAbstractCoroutineContextElement, ComposeAppKotlinx_coroutines_coreCoroutineDispatcherKey, ComposeAppKtor_httpHeadersBuilder, ComposeAppKtor_client_coreHttpRequestBuilderCompanion, ComposeAppKtor_httpURLBuilder, ComposeAppKtor_utilsTypeInfo, ComposeAppKtor_client_coreHttpClientCallCompanion, ComposeAppBack_handlerBackEventSwipeEdge, ComposeAppKoin_coreExtensionManager, ComposeAppKoin_coreInstanceRegistry, ComposeAppKoin_corePropertyRegistry, ComposeAppKoin_coreScopeRegistry, ComposeAppKoin_coreLevel, ComposeAppKoin_coreKind, ComposeAppKoin_coreCallbacks<T>, ComposeAppKtor_httpUrlCompanion, ComposeAppKtor_httpHttpMethodCompanion, ComposeAppKtor_httpContentType, ComposeAppKotlinCancellationException, ComposeAppKtor_httpHttpStatusCodeCompanion, ComposeAppKtor_utilsGMTDateCompanion, ComposeAppKtor_utilsWeekDay, ComposeAppKtor_utilsMonth, ComposeAppKtor_httpHttpProtocolVersionCompanion, ComposeAppKotlinAbstractCoroutineContextKey<B, E>, ComposeAppKtor_ioMemory, ComposeAppKtor_ioChunkBuffer, ComposeAppKtor_ioBuffer, ComposeAppKotlinByteArray, ComposeAppKtor_ioByteReadPacket, ComposeAppKtor_utilsStringValuesBuilderImpl, ComposeAppKtor_httpURLBuilderCompanion, ComposeAppKoin_coreScopeRegistryCompanion, ComposeAppKtor_httpHeaderValueParam, ComposeAppKtor_httpHeaderValueWithParametersCompanion, ComposeAppKtor_httpHeaderValueWithParameters, ComposeAppKtor_httpContentTypeCompanion, ComposeAppKtor_utilsWeekDayCompanion, ComposeAppKtor_utilsMonthCompanion, ComposeAppKtor_ioMemoryCompanion, ComposeAppKtor_ioBufferCompanion, ComposeAppKtor_ioChunkBufferCompanion, ComposeAppKotlinByteIterator, ComposeAppKtor_ioInputCompanion, ComposeAppKtor_ioInput, ComposeAppKtor_ioByteReadPacketCompanion, ComposeAppKotlinKTypeProjection, ComposeAppKotlinKVariance, ComposeAppKotlinKTypeProjectionCompanion;
 
-@protocol ComposeAppPlatform, ComposeAppKtor_client_loggingLogger, ComposeAppKotlinComparable, ComposeAppKotlinx_coroutines_coreFlow, ComposeAppKotlinx_serialization_coreKSerializer, ComposeAppLifecycleLifecycle, ComposeAppLifecycleLifecycleOwner, ComposeAppState_keeperStateKeeper, ComposeAppState_keeperStateKeeperOwner, ComposeAppInstance_keeperInstanceKeeper, ComposeAppInstance_keeperInstanceKeeperOwner, ComposeAppBack_handlerBackHandler, ComposeAppBack_handlerBackHandlerOwner, ComposeAppDecomposeComponentContext, ComposeAppCourseDetailRoute, ComposeAppCourseListRoute, ComposeAppKotlinx_coroutines_coreCoroutineScope, ComposeAppKotlinx_coroutines_coreStateFlow, ComposeAppKotlinSuspendFunction0, ComposeAppKotlinCoroutineContext, ComposeAppKtor_ioCloseable, ComposeAppKtor_client_coreHttpClientEngine, ComposeAppKtor_client_coreHttpClientEngineCapability, ComposeAppKtor_utilsAttributes, ComposeAppKermitLoggerConfig, ComposeAppKotlinIterator, ComposeAppKotlinx_coroutines_coreFlowCollector, ComposeAppKotlinx_serialization_coreEncoder, ComposeAppKotlinx_serialization_coreSerialDescriptor, ComposeAppKotlinx_serialization_coreSerializationStrategy, ComposeAppKotlinx_serialization_coreDecoder, ComposeAppKotlinx_serialization_coreDeserializationStrategy, ComposeAppLifecycleLifecycleCallbacks, ComposeAppRuntimeParcelable, ComposeAppKotlinKClass, ComposeAppInstance_keeperInstanceKeeperInstance, ComposeAppDecomposeCancellation, ComposeAppKotlinx_coroutines_coreSharedFlow, ComposeAppKotlinx_serialization_coreSerialFormat, ComposeAppKotlinx_serialization_coreStringFormat, ComposeAppKoin_coreQualifier, ComposeAppKotlinFunction, ComposeAppKotlinCoroutineContextElement, ComposeAppKotlinCoroutineContextKey, ComposeAppKtor_client_coreHttpClientPlugin, ComposeAppKotlinx_coroutines_coreDisposableHandle, ComposeAppKotlinSuspendFunction2, ComposeAppKotlinx_serialization_coreCompositeEncoder, ComposeAppKotlinAnnotation, ComposeAppKotlinx_serialization_coreCompositeDecoder, NSSecureCoding, ComposeAppKotlinKDeclarationContainer, ComposeAppKotlinKAnnotatedElement, ComposeAppKotlinKClassifier, ComposeAppKotlinx_serialization_coreSerializersModuleCollector, ComposeAppKotlinx_serialization_jsonJsonNamingStrategy, ComposeAppKotlinLazy, ComposeAppKoin_coreScopeCallback, ComposeAppKtor_httpHeaders, ComposeAppKotlinx_coroutines_coreJob, ComposeAppKotlinContinuation, ComposeAppKotlinContinuationInterceptor, ComposeAppKotlinx_coroutines_coreRunnable, ComposeAppKtor_httpHttpMessage, ComposeAppKtor_ioByteReadChannel, ComposeAppKtor_httpHttpMessageBuilder, ComposeAppKtor_client_coreHttpRequest, ComposeAppKoin_coreKoinScopeComponent, ComposeAppKtor_httpParameters, ComposeAppKotlinMapEntry, ComposeAppKtor_utilsStringValues, ComposeAppKotlinx_coroutines_coreChildHandle, ComposeAppKotlinx_coroutines_coreChildJob, ComposeAppKotlinSequence, ComposeAppKotlinx_coroutines_coreSelectClause0, ComposeAppKtor_ioReadSession, ComposeAppKotlinSuspendFunction1, ComposeAppKotlinAppendable, ComposeAppKtor_utilsStringValuesBuilder, ComposeAppKtor_httpParametersBuilder, ComposeAppKotlinKType, ComposeAppKoin_coreKoinComponent, ComposeAppKoin_coreKoinExtension, ComposeAppKotlinx_coroutines_coreParentJob, ComposeAppKotlinx_coroutines_coreSelectInstance, ComposeAppKotlinx_coroutines_coreSelectClause, ComposeAppKtor_ioObjectPool;
+@protocol ComposeAppPlatform, ComposeAppKotlinx_serialization_coreKSerializer, ComposeAppKtor_client_loggingLogger, ComposeAppKotlinComparable, ComposeAppKotlinx_coroutines_coreFlow, ComposeAppLifecycleLifecycle, ComposeAppLifecycleLifecycleOwner, ComposeAppState_keeperStateKeeper, ComposeAppState_keeperStateKeeperOwner, ComposeAppInstance_keeperInstanceKeeper, ComposeAppInstance_keeperInstanceKeeperOwner, ComposeAppBack_handlerBackHandler, ComposeAppBack_handlerBackHandlerOwner, ComposeAppDecomposeComponentContext, ComposeAppCourseDetailRoute, ComposeAppCourseListRoute, ComposeAppKotlinx_coroutines_coreCoroutineScope, ComposeAppKotlinx_coroutines_coreStateFlow, ComposeAppKotlinCoroutineContext, ComposeAppKotlinSuspendFunction0, ComposeAppKtor_ioCloseable, ComposeAppKtor_client_coreHttpClientEngine, ComposeAppKtor_client_coreHttpClientEngineCapability, ComposeAppKtor_utilsAttributes, ComposeAppKotlinIterator, ComposeAppKotlinx_serialization_coreEncoder, ComposeAppKotlinx_serialization_coreSerialDescriptor, ComposeAppKotlinx_serialization_coreSerializationStrategy, ComposeAppKotlinx_serialization_coreDecoder, ComposeAppKotlinx_serialization_coreDeserializationStrategy, ComposeAppKermitLoggerConfig, ComposeAppKotlinx_coroutines_coreFlowCollector, ComposeAppLifecycleLifecycleCallbacks, ComposeAppRuntimeParcelable, ComposeAppKotlinKClass, ComposeAppInstance_keeperInstanceKeeperInstance, ComposeAppDecomposeCancellation, ComposeAppKotlinx_coroutines_coreSharedFlow, ComposeAppKotlinx_serialization_coreSerialFormat, ComposeAppKotlinx_serialization_coreStringFormat, ComposeAppKoin_coreQualifier, ComposeAppKotlinCoroutineContextElement, ComposeAppKotlinCoroutineContextKey, ComposeAppKotlinFunction, ComposeAppKtor_client_coreHttpClientPlugin, ComposeAppKotlinx_coroutines_coreDisposableHandle, ComposeAppKotlinSuspendFunction2, ComposeAppKotlinx_serialization_coreCompositeEncoder, ComposeAppKotlinAnnotation, ComposeAppKotlinx_serialization_coreCompositeDecoder, NSSecureCoding, ComposeAppKotlinKDeclarationContainer, ComposeAppKotlinKAnnotatedElement, ComposeAppKotlinKClassifier, ComposeAppKotlinx_serialization_coreSerializersModuleCollector, ComposeAppKotlinx_serialization_jsonJsonNamingStrategy, ComposeAppKotlinLazy, ComposeAppKoin_coreScopeCallback, ComposeAppKtor_httpHeaders, ComposeAppKotlinx_coroutines_coreJob, ComposeAppKotlinContinuation, ComposeAppKotlinContinuationInterceptor, ComposeAppKotlinx_coroutines_coreRunnable, ComposeAppKtor_httpHttpMessage, ComposeAppKtor_ioByteReadChannel, ComposeAppKtor_httpHttpMessageBuilder, ComposeAppKtor_client_coreHttpRequest, ComposeAppKoin_coreKoinScopeComponent, ComposeAppKtor_httpParameters, ComposeAppKotlinMapEntry, ComposeAppKtor_utilsStringValues, ComposeAppKotlinx_coroutines_coreChildHandle, ComposeAppKotlinx_coroutines_coreChildJob, ComposeAppKotlinSequence, ComposeAppKotlinx_coroutines_coreSelectClause0, ComposeAppKtor_ioReadSession, ComposeAppKotlinSuspendFunction1, ComposeAppKotlinAppendable, ComposeAppKtor_utilsStringValuesBuilder, ComposeAppKtor_httpParametersBuilder, ComposeAppKotlinKType, ComposeAppKoin_coreKoinComponent, ComposeAppKoin_coreKoinExtension, ComposeAppKotlinx_coroutines_coreParentJob, ComposeAppKotlinx_coroutines_coreSelectInstance, ComposeAppKotlinx_coroutines_coreSelectClause, ComposeAppKtor_ioObjectPool;
 
 NS_ASSUME_NONNULL_BEGIN
 #pragma clang diagnostic push
@@ -172,11 +172,83 @@ __attribute__((swift_name("IOSPlatform")))
 @property (readonly) NSString *name __attribute__((swift_name("name")));
 @end
 
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("ApiException")))
-@interface ComposeAppApiException : ComposeAppBase
+__attribute__((swift_name("KotlinThrowable")))
+@interface ComposeAppKotlinThrowable : ComposeAppBase
 - (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
 + (instancetype)new __attribute__((availability(swift, unavailable, message="use object initializers instead")));
+- (instancetype)initWithMessage:(NSString * _Nullable)message __attribute__((swift_name("init(message:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)initWithCause:(ComposeAppKotlinThrowable * _Nullable)cause __attribute__((swift_name("init(cause:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)initWithMessage:(NSString * _Nullable)message cause:(ComposeAppKotlinThrowable * _Nullable)cause __attribute__((swift_name("init(message:cause:)"))) __attribute__((objc_designated_initializer));
+
+/**
+ * @note annotations
+ *   kotlin.experimental.ExperimentalNativeApi
+*/
+- (ComposeAppKotlinArray<NSString *> *)getStackTrace __attribute__((swift_name("getStackTrace()")));
+- (void)printStackTrace __attribute__((swift_name("printStackTrace()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) ComposeAppKotlinThrowable * _Nullable cause __attribute__((swift_name("cause")));
+@property (readonly) NSString * _Nullable message __attribute__((swift_name("message")));
+- (NSError *)asError __attribute__((swift_name("asError()")));
+@end
+
+__attribute__((swift_name("KotlinException")))
+@interface ComposeAppKotlinException : ComposeAppKotlinThrowable
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
++ (instancetype)new __attribute__((availability(swift, unavailable, message="use object initializers instead")));
+- (instancetype)initWithMessage:(NSString * _Nullable)message __attribute__((swift_name("init(message:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)initWithCause:(ComposeAppKotlinThrowable * _Nullable)cause __attribute__((swift_name("init(cause:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)initWithMessage:(NSString * _Nullable)message cause:(ComposeAppKotlinThrowable * _Nullable)cause __attribute__((swift_name("init(message:cause:)"))) __attribute__((objc_designated_initializer));
+@end
+
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.Serializable
+*/
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("ApiException")))
+@interface ComposeAppApiException : ComposeAppKotlinException
+- (instancetype)initWithHttpCode:(int32_t)httpCode isError:(BOOL)isError errorMessage:(NSString *)errorMessage __attribute__((swift_name("init(httpCode:isError:errorMessage:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
++ (instancetype)new __attribute__((unavailable));
+- (instancetype)initWithMessage:(NSString * _Nullable)message __attribute__((swift_name("init(message:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
+- (instancetype)initWithCause:(ComposeAppKotlinThrowable * _Nullable)cause __attribute__((swift_name("init(cause:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
+- (instancetype)initWithMessage:(NSString * _Nullable)message cause:(ComposeAppKotlinThrowable * _Nullable)cause __attribute__((swift_name("init(message:cause:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
+@property (class, readonly, getter=companion) ComposeAppApiExceptionCompanion *companion __attribute__((swift_name("companion")));
+- (ComposeAppApiException *)doCopyHttpCode:(int32_t)httpCode isError:(BOOL)isError errorMessage:(NSString *)errorMessage __attribute__((swift_name("doCopy(httpCode:isError:errorMessage:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (ComposeAppApiError *)mapIsError:(BOOL)isError message:(NSString *)message __attribute__((swift_name("map(isError:message:)")));
+- (NSString *)description __attribute__((swift_name("description()")));
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.SerialName(value="message")
+*/
+@property (readonly) NSString *errorMessage __attribute__((swift_name("errorMessage")));
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.Transient
+*/
+@property (readonly) int32_t httpCode __attribute__((swift_name("httpCode")));
+
+/**
+ * @note annotations
+ *   kotlinx.serialization.SerialName(value="error")
+*/
+@property (readonly) BOOL isError __attribute__((swift_name("isError")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("ApiException.Companion")))
+@interface ComposeAppApiExceptionCompanion : ComposeAppBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)companion __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) ComposeAppApiExceptionCompanion *shared __attribute__((swift_name("shared")));
+- (id<ComposeAppKotlinx_serialization_coreKSerializer>)serializer __attribute__((swift_name("serializer()")));
 @end
 
 __attribute__((swift_name("Ktor_client_loggingLogger")))
@@ -279,6 +351,25 @@ __attribute__((swift_name("NetworkResultSuccess")))
 - (NSUInteger)hash __attribute__((swift_name("hash()")));
 - (NSString *)description __attribute__((swift_name("description()")));
 @property (readonly) T _Nullable _data __attribute__((swift_name("_data")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("ApiError")))
+@interface ComposeAppApiError : ComposeAppKotlinException
+- (instancetype)initWithHttpCode:(int32_t)httpCode isError:(BOOL)isError errorMessage:(NSString *)errorMessage errorCode:(NSString *)errorCode __attribute__((swift_name("init(httpCode:isError:errorMessage:errorCode:)"))) __attribute__((objc_designated_initializer));
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
++ (instancetype)new __attribute__((unavailable));
+- (instancetype)initWithMessage:(NSString * _Nullable)message __attribute__((swift_name("init(message:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
+- (instancetype)initWithCause:(ComposeAppKotlinThrowable * _Nullable)cause __attribute__((swift_name("init(cause:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
+- (instancetype)initWithMessage:(NSString * _Nullable)message cause:(ComposeAppKotlinThrowable * _Nullable)cause __attribute__((swift_name("init(message:cause:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
+- (ComposeAppApiError *)doCopyHttpCode:(int32_t)httpCode isError:(BOOL)isError errorMessage:(NSString *)errorMessage errorCode:(NSString *)errorCode __attribute__((swift_name("doCopy(httpCode:isError:errorMessage:errorCode:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) NSString *errorCode __attribute__((swift_name("errorCode")));
+@property (readonly) NSString *errorMessage __attribute__((swift_name("errorMessage")));
+@property (readonly) int32_t httpCode __attribute__((swift_name("httpCode")));
+@property (readonly) BOOL isError __attribute__((swift_name("isError")));
 @end
 
 
@@ -648,9 +739,7 @@ __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("RemoteModuleKt")))
 @interface ComposeAppRemoteModuleKt : ComposeAppBase
 @property (class, readonly) NSString *BASE_URL __attribute__((swift_name("BASE_URL")));
-@property (class, readonly) NSString *EXAMPLE_BASE_URL __attribute__((swift_name("EXAMPLE_BASE_URL")));
 @property (class, readonly) NSString *NETWORK_CLIENT __attribute__((swift_name("NETWORK_CLIENT")));
-@property (class, readonly) NSString *NETWORK_CLIENT_EXAMPLE __attribute__((swift_name("NETWORK_CLIENT_EXAMPLE")));
 @property (class, readonly) NSString *NETWORK_CLIENT_MULTIPART __attribute__((swift_name("NETWORK_CLIENT_MULTIPART")));
 @property (class, readonly) ComposeAppKoin_coreModule *remoteModule __attribute__((swift_name("remoteModule")));
 @end
@@ -665,6 +754,12 @@ __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("SharedModuleKt")))
 @interface ComposeAppSharedModuleKt : ComposeAppBase
 @property (class, readonly) NSArray<ComposeAppKoin_coreModule *> *sharedKoinModules __attribute__((swift_name("sharedKoinModules")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("UseCaseUtilsKt")))
+@interface ComposeAppUseCaseUtilsKt : ComposeAppBase
++ (id<ComposeAppKotlinx_coroutines_coreFlow>)executeContext:(id<ComposeAppKotlinCoroutineContext>)context block:(id<ComposeAppKotlinSuspendFunction0>)block __attribute__((swift_name("execute(context:block:)")));
 @end
 
 __attribute__((objc_subclassing_restricted))
@@ -710,6 +805,37 @@ __attribute__((swift_name("Ktor_client_coreHttpClient")))
 @property (readonly) ComposeAppKtor_client_coreHttpSendPipeline *sendPipeline __attribute__((swift_name("sendPipeline")));
 @end
 
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("KotlinArray")))
+@interface ComposeAppKotlinArray<T> : ComposeAppBase
++ (instancetype)arrayWithSize:(int32_t)size init:(T _Nullable (^)(ComposeAppInt *))init __attribute__((swift_name("init(size:init:)")));
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
+- (T _Nullable)getIndex:(int32_t)index __attribute__((swift_name("get(index:)")));
+- (id<ComposeAppKotlinIterator>)iterator __attribute__((swift_name("iterator()")));
+- (void)setIndex:(int32_t)index value:(T _Nullable)value __attribute__((swift_name("set(index:value:)")));
+@property (readonly) int32_t size __attribute__((swift_name("size")));
+@end
+
+__attribute__((swift_name("Kotlinx_serialization_coreSerializationStrategy")))
+@protocol ComposeAppKotlinx_serialization_coreSerializationStrategy
+@required
+- (void)serializeEncoder:(id<ComposeAppKotlinx_serialization_coreEncoder>)encoder value:(id _Nullable)value __attribute__((swift_name("serialize(encoder:value:)")));
+@property (readonly) id<ComposeAppKotlinx_serialization_coreSerialDescriptor> descriptor __attribute__((swift_name("descriptor")));
+@end
+
+__attribute__((swift_name("Kotlinx_serialization_coreDeserializationStrategy")))
+@protocol ComposeAppKotlinx_serialization_coreDeserializationStrategy
+@required
+- (id _Nullable)deserializeDecoder:(id<ComposeAppKotlinx_serialization_coreDecoder>)decoder __attribute__((swift_name("deserialize(decoder:)")));
+@property (readonly) id<ComposeAppKotlinx_serialization_coreSerialDescriptor> descriptor __attribute__((swift_name("descriptor")));
+@end
+
+__attribute__((swift_name("Kotlinx_serialization_coreKSerializer")))
+@protocol ComposeAppKotlinx_serialization_coreKSerializer <ComposeAppKotlinx_serialization_coreSerializationStrategy, ComposeAppKotlinx_serialization_coreDeserializationStrategy>
+@required
+@end
+
 __attribute__((swift_name("KermitLogger")))
 @interface ComposeAppKermitLogger : ComposeAppBase
 - (instancetype)initWithConfig:(id<ComposeAppKermitLoggerConfig>)config tag:(NSString *)tag __attribute__((swift_name("init(config:tag:)"))) __attribute__((objc_designated_initializer));
@@ -753,18 +879,6 @@ __attribute__((swift_name("KotlinEnumCompanion")))
 @property (class, readonly, getter=shared) ComposeAppKotlinEnumCompanion *shared __attribute__((swift_name("shared")));
 @end
 
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("KotlinArray")))
-@interface ComposeAppKotlinArray<T> : ComposeAppBase
-+ (instancetype)arrayWithSize:(int32_t)size init:(T _Nullable (^)(ComposeAppInt *))init __attribute__((swift_name("init(size:init:)")));
-+ (instancetype)alloc __attribute__((unavailable));
-+ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
-- (T _Nullable)getIndex:(int32_t)index __attribute__((swift_name("get(index:)")));
-- (id<ComposeAppKotlinIterator>)iterator __attribute__((swift_name("iterator()")));
-- (void)setIndex:(int32_t)index value:(T _Nullable)value __attribute__((swift_name("set(index:value:)")));
-@property (readonly) int32_t size __attribute__((swift_name("size")));
-@end
-
 __attribute__((swift_name("Kotlinx_coroutines_coreFlow")))
 @protocol ComposeAppKotlinx_coroutines_coreFlow
 @required
@@ -774,25 +888,6 @@ __attribute__((swift_name("Kotlinx_coroutines_coreFlow")))
  * Other uncaught Kotlin exceptions are fatal.
 */
 - (void)collectCollector:(id<ComposeAppKotlinx_coroutines_coreFlowCollector>)collector completionHandler:(void (^)(NSError * _Nullable))completionHandler __attribute__((swift_name("collect(collector:completionHandler:)")));
-@end
-
-__attribute__((swift_name("Kotlinx_serialization_coreSerializationStrategy")))
-@protocol ComposeAppKotlinx_serialization_coreSerializationStrategy
-@required
-- (void)serializeEncoder:(id<ComposeAppKotlinx_serialization_coreEncoder>)encoder value:(id _Nullable)value __attribute__((swift_name("serialize(encoder:value:)")));
-@property (readonly) id<ComposeAppKotlinx_serialization_coreSerialDescriptor> descriptor __attribute__((swift_name("descriptor")));
-@end
-
-__attribute__((swift_name("Kotlinx_serialization_coreDeserializationStrategy")))
-@protocol ComposeAppKotlinx_serialization_coreDeserializationStrategy
-@required
-- (id _Nullable)deserializeDecoder:(id<ComposeAppKotlinx_serialization_coreDecoder>)decoder __attribute__((swift_name("deserialize(decoder:)")));
-@property (readonly) id<ComposeAppKotlinx_serialization_coreSerialDescriptor> descriptor __attribute__((swift_name("descriptor")));
-@end
-
-__attribute__((swift_name("Kotlinx_serialization_coreKSerializer")))
-@protocol ComposeAppKotlinx_serialization_coreKSerializer <ComposeAppKotlinx_serialization_coreSerializationStrategy, ComposeAppKotlinx_serialization_coreDeserializationStrategy>
-@required
 @end
 
 __attribute__((swift_name("LifecycleLifecycle")))
@@ -851,35 +946,6 @@ __attribute__((swift_name("DecomposeValue")))
 - (void)subscribeObserver:(void (^)(T))observer __attribute__((swift_name("subscribe(observer:)"))) __attribute__((deprecated("Calling this method from Swift leaks the observer, because Kotlin wraps the function passed from Swift every time the method is called. Please use the new `observe` method which returns `Disposable`.")));
 - (void)unsubscribeObserver:(void (^)(T))observer __attribute__((swift_name("unsubscribe(observer:)"))) __attribute__((deprecated("Calling this method from Swift doesn't have any effect, because Kotlin wraps the function passed from Swift every time the method is called. Please use the new `observe` method which returns `Disposable`.")));
 @property (readonly) T value __attribute__((swift_name("value")));
-@end
-
-__attribute__((swift_name("KotlinThrowable")))
-@interface ComposeAppKotlinThrowable : ComposeAppBase
-- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
-+ (instancetype)new __attribute__((availability(swift, unavailable, message="use object initializers instead")));
-- (instancetype)initWithMessage:(NSString * _Nullable)message __attribute__((swift_name("init(message:)"))) __attribute__((objc_designated_initializer));
-- (instancetype)initWithCause:(ComposeAppKotlinThrowable * _Nullable)cause __attribute__((swift_name("init(cause:)"))) __attribute__((objc_designated_initializer));
-- (instancetype)initWithMessage:(NSString * _Nullable)message cause:(ComposeAppKotlinThrowable * _Nullable)cause __attribute__((swift_name("init(message:cause:)"))) __attribute__((objc_designated_initializer));
-
-/**
- * @note annotations
- *   kotlin.experimental.ExperimentalNativeApi
-*/
-- (ComposeAppKotlinArray<NSString *> *)getStackTrace __attribute__((swift_name("getStackTrace()")));
-- (void)printStackTrace __attribute__((swift_name("printStackTrace()")));
-- (NSString *)description __attribute__((swift_name("description()")));
-@property (readonly) ComposeAppKotlinThrowable * _Nullable cause __attribute__((swift_name("cause")));
-@property (readonly) NSString * _Nullable message __attribute__((swift_name("message")));
-- (NSError *)asError __attribute__((swift_name("asError()")));
-@end
-
-__attribute__((swift_name("KotlinException")))
-@interface ComposeAppKotlinException : ComposeAppKotlinThrowable
-- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
-+ (instancetype)new __attribute__((availability(swift, unavailable, message="use object initializers instead")));
-- (instancetype)initWithMessage:(NSString * _Nullable)message __attribute__((swift_name("init(message:)"))) __attribute__((objc_designated_initializer));
-- (instancetype)initWithCause:(ComposeAppKotlinThrowable * _Nullable)cause __attribute__((swift_name("init(cause:)"))) __attribute__((objc_designated_initializer));
-- (instancetype)initWithMessage:(NSString * _Nullable)message cause:(ComposeAppKotlinThrowable * _Nullable)cause __attribute__((swift_name("init(message:cause:)"))) __attribute__((objc_designated_initializer));
 @end
 
 __attribute__((swift_name("KotlinRuntimeException")))
@@ -989,6 +1055,20 @@ __attribute__((swift_name("Koin_coreModule")))
 @property (readonly) ComposeAppMutableDictionary<NSString *, ComposeAppKoin_coreInstanceFactory<id> *> *mappings __attribute__((swift_name("mappings")));
 @end
 
+
+/**
+ * @note annotations
+ *   kotlin.SinceKotlin(version="1.3")
+*/
+__attribute__((swift_name("KotlinCoroutineContext")))
+@protocol ComposeAppKotlinCoroutineContext
+@required
+- (id _Nullable)foldInitial:(id _Nullable)initial operation:(id _Nullable (^)(id _Nullable, id<ComposeAppKotlinCoroutineContextElement>))operation __attribute__((swift_name("fold(initial:operation:)")));
+- (id<ComposeAppKotlinCoroutineContextElement> _Nullable)getKey_:(id<ComposeAppKotlinCoroutineContextKey>)key __attribute__((swift_name("get(key_:)")));
+- (id<ComposeAppKotlinCoroutineContext>)minusKeyKey:(id<ComposeAppKotlinCoroutineContextKey>)key __attribute__((swift_name("minusKey(key:)")));
+- (id<ComposeAppKotlinCoroutineContext>)plusContext:(id<ComposeAppKotlinCoroutineContext>)context __attribute__((swift_name("plus(context:)")));
+@end
+
 __attribute__((swift_name("KotlinFunction")))
 @protocol ComposeAppKotlinFunction
 @required
@@ -1003,20 +1083,6 @@ __attribute__((swift_name("KotlinSuspendFunction0")))
  * Other uncaught Kotlin exceptions are fatal.
 */
 - (void)invokeWithCompletionHandler:(void (^)(id _Nullable_result, NSError * _Nullable))completionHandler __attribute__((swift_name("invoke(completionHandler:)")));
-@end
-
-
-/**
- * @note annotations
- *   kotlin.SinceKotlin(version="1.3")
-*/
-__attribute__((swift_name("KotlinCoroutineContext")))
-@protocol ComposeAppKotlinCoroutineContext
-@required
-- (id _Nullable)foldInitial:(id _Nullable)initial operation:(id _Nullable (^)(id _Nullable, id<ComposeAppKotlinCoroutineContextElement>))operation __attribute__((swift_name("fold(initial:operation:)")));
-- (id<ComposeAppKotlinCoroutineContextElement> _Nullable)getKey_:(id<ComposeAppKotlinCoroutineContextKey>)key __attribute__((swift_name("get(key_:)")));
-- (id<ComposeAppKotlinCoroutineContext>)minusKeyKey:(id<ComposeAppKotlinCoroutineContextKey>)key __attribute__((swift_name("minusKey(key:)")));
-- (id<ComposeAppKotlinCoroutineContext>)plusContext:(id<ComposeAppKotlinCoroutineContext>)context __attribute__((swift_name("plus(context:)")));
 @end
 
 __attribute__((swift_name("Ktor_client_coreHttpClientEngine")))
@@ -1154,66 +1220,11 @@ __attribute__((swift_name("Ktor_client_coreHttpSendPipeline")))
 @property (readonly) BOOL developmentMode __attribute__((swift_name("developmentMode")));
 @end
 
-__attribute__((swift_name("KermitLoggerConfig")))
-@protocol ComposeAppKermitLoggerConfig
-@required
-@property (readonly) NSArray<ComposeAppKermitLogWriter *> *logWriterList __attribute__((swift_name("logWriterList")));
-@property (readonly) ComposeAppKermitSeverity *minSeverity __attribute__((swift_name("minSeverity")));
-@end
-
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("KermitLogger.Companion")))
-@interface ComposeAppKermitLoggerCompanion : ComposeAppKermitLogger
-+ (instancetype)alloc __attribute__((unavailable));
-+ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
-- (instancetype)initWithConfig:(id<ComposeAppKermitLoggerConfig>)config tag:(NSString *)tag __attribute__((swift_name("init(config:tag:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
-+ (instancetype)companion __attribute__((swift_name("init()")));
-@property (class, readonly, getter=shared) ComposeAppKermitLoggerCompanion *shared __attribute__((swift_name("shared")));
-- (void)aTag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable message:(NSString *(^)(void))message __attribute__((swift_name("a(tag:throwable:message:)")));
-- (void)addLogWriterLogWriter:(ComposeAppKotlinArray<ComposeAppKermitLogWriter *> *)logWriter __attribute__((swift_name("addLogWriter(logWriter:)")));
-- (void)dTag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable message:(NSString *(^)(void))message __attribute__((swift_name("d(tag:throwable:message:)")));
-- (void)eTag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable message:(NSString *(^)(void))message __attribute__((swift_name("e(tag:throwable:message:)")));
-- (void)iTag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable message:(NSString *(^)(void))message __attribute__((swift_name("i(tag:throwable:message:)")));
-- (void)setLogWritersLogWriter:(ComposeAppKotlinArray<ComposeAppKermitLogWriter *> *)logWriter __attribute__((swift_name("setLogWriters(logWriter:)")));
-- (void)setLogWritersLogWriters:(NSArray<ComposeAppKermitLogWriter *> *)logWriters __attribute__((swift_name("setLogWriters(logWriters:)")));
-- (void)setMinSeveritySeverity:(ComposeAppKermitSeverity *)severity __attribute__((swift_name("setMinSeverity(severity:)")));
-- (void)setTagTag:(NSString *)tag __attribute__((swift_name("setTag(tag:)")));
-- (void)vTag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable message:(NSString *(^)(void))message __attribute__((swift_name("v(tag:throwable:message:)")));
-- (void)wTag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable message:(NSString *(^)(void))message __attribute__((swift_name("w(tag:throwable:message:)")));
-@property (readonly) NSString *tag __attribute__((swift_name("tag")));
-@end
-
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("KermitSeverity")))
-@interface ComposeAppKermitSeverity : ComposeAppKotlinEnum<ComposeAppKermitSeverity *>
-+ (instancetype)alloc __attribute__((unavailable));
-+ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
-- (instancetype)initWithName:(NSString *)name ordinal:(int32_t)ordinal __attribute__((swift_name("init(name:ordinal:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
-@property (class, readonly) ComposeAppKermitSeverity *verbose __attribute__((swift_name("verbose")));
-@property (class, readonly) ComposeAppKermitSeverity *debug __attribute__((swift_name("debug")));
-@property (class, readonly) ComposeAppKermitSeverity *info __attribute__((swift_name("info")));
-@property (class, readonly) ComposeAppKermitSeverity *warn __attribute__((swift_name("warn")));
-@property (class, readonly) ComposeAppKermitSeverity *error __attribute__((swift_name("error")));
-@property (class, readonly) ComposeAppKermitSeverity *assert __attribute__((swift_name("assert")));
-+ (ComposeAppKotlinArray<ComposeAppKermitSeverity *> *)values __attribute__((swift_name("values()")));
-@end
-
 __attribute__((swift_name("KotlinIterator")))
 @protocol ComposeAppKotlinIterator
 @required
 - (BOOL)hasNext __attribute__((swift_name("hasNext()")));
 - (id _Nullable)next __attribute__((swift_name("next()")));
-@end
-
-__attribute__((swift_name("Kotlinx_coroutines_coreFlowCollector")))
-@protocol ComposeAppKotlinx_coroutines_coreFlowCollector
-@required
-
-/**
- * @note This method converts instances of CancellationException to errors.
- * Other uncaught Kotlin exceptions are fatal.
-*/
-- (void)emitValue:(id _Nullable)value completionHandler:(void (^)(NSError * _Nullable))completionHandler __attribute__((swift_name("emit(value:completionHandler:)")));
 @end
 
 __attribute__((swift_name("Kotlinx_serialization_coreEncoder")))
@@ -1355,6 +1366,61 @@ __attribute__((swift_name("Kotlinx_serialization_coreDecoder")))
 - (int16_t)decodeShort __attribute__((swift_name("decodeShort()")));
 - (NSString *)decodeString __attribute__((swift_name("decodeString()")));
 @property (readonly) ComposeAppKotlinx_serialization_coreSerializersModule *serializersModule __attribute__((swift_name("serializersModule")));
+@end
+
+__attribute__((swift_name("KermitLoggerConfig")))
+@protocol ComposeAppKermitLoggerConfig
+@required
+@property (readonly) NSArray<ComposeAppKermitLogWriter *> *logWriterList __attribute__((swift_name("logWriterList")));
+@property (readonly) ComposeAppKermitSeverity *minSeverity __attribute__((swift_name("minSeverity")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("KermitLogger.Companion")))
+@interface ComposeAppKermitLoggerCompanion : ComposeAppKermitLogger
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
+- (instancetype)initWithConfig:(id<ComposeAppKermitLoggerConfig>)config tag:(NSString *)tag __attribute__((swift_name("init(config:tag:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
++ (instancetype)companion __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) ComposeAppKermitLoggerCompanion *shared __attribute__((swift_name("shared")));
+- (void)aTag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable message:(NSString *(^)(void))message __attribute__((swift_name("a(tag:throwable:message:)")));
+- (void)addLogWriterLogWriter:(ComposeAppKotlinArray<ComposeAppKermitLogWriter *> *)logWriter __attribute__((swift_name("addLogWriter(logWriter:)")));
+- (void)dTag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable message:(NSString *(^)(void))message __attribute__((swift_name("d(tag:throwable:message:)")));
+- (void)eTag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable message:(NSString *(^)(void))message __attribute__((swift_name("e(tag:throwable:message:)")));
+- (void)iTag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable message:(NSString *(^)(void))message __attribute__((swift_name("i(tag:throwable:message:)")));
+- (void)setLogWritersLogWriter:(ComposeAppKotlinArray<ComposeAppKermitLogWriter *> *)logWriter __attribute__((swift_name("setLogWriters(logWriter:)")));
+- (void)setLogWritersLogWriters:(NSArray<ComposeAppKermitLogWriter *> *)logWriters __attribute__((swift_name("setLogWriters(logWriters:)")));
+- (void)setMinSeveritySeverity:(ComposeAppKermitSeverity *)severity __attribute__((swift_name("setMinSeverity(severity:)")));
+- (void)setTagTag:(NSString *)tag __attribute__((swift_name("setTag(tag:)")));
+- (void)vTag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable message:(NSString *(^)(void))message __attribute__((swift_name("v(tag:throwable:message:)")));
+- (void)wTag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable message:(NSString *(^)(void))message __attribute__((swift_name("w(tag:throwable:message:)")));
+@property (readonly) NSString *tag __attribute__((swift_name("tag")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("KermitSeverity")))
+@interface ComposeAppKermitSeverity : ComposeAppKotlinEnum<ComposeAppKermitSeverity *>
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
+- (instancetype)initWithName:(NSString *)name ordinal:(int32_t)ordinal __attribute__((swift_name("init(name:ordinal:)"))) __attribute__((objc_designated_initializer)) __attribute__((unavailable));
+@property (class, readonly) ComposeAppKermitSeverity *verbose __attribute__((swift_name("verbose")));
+@property (class, readonly) ComposeAppKermitSeverity *debug __attribute__((swift_name("debug")));
+@property (class, readonly) ComposeAppKermitSeverity *info __attribute__((swift_name("info")));
+@property (class, readonly) ComposeAppKermitSeverity *warn __attribute__((swift_name("warn")));
+@property (class, readonly) ComposeAppKermitSeverity *error __attribute__((swift_name("error")));
+@property (class, readonly) ComposeAppKermitSeverity *assert __attribute__((swift_name("assert")));
++ (ComposeAppKotlinArray<ComposeAppKermitSeverity *> *)values __attribute__((swift_name("values()")));
+@end
+
+__attribute__((swift_name("Kotlinx_coroutines_coreFlowCollector")))
+@protocol ComposeAppKotlinx_coroutines_coreFlowCollector
+@required
+
+/**
+ * @note This method converts instances of CancellationException to errors.
+ * Other uncaught Kotlin exceptions are fatal.
+*/
+- (void)emitValue:(id _Nullable)value completionHandler:(void (^)(NSError * _Nullable))completionHandler __attribute__((swift_name("emit(value:completionHandler:)")));
 @end
 
 __attribute__((swift_name("LifecycleLifecycleCallbacks")))
@@ -1997,20 +2063,6 @@ __attribute__((swift_name("Ktor_client_coreHttpSendPipeline.Phases")))
 @property (readonly) ComposeAppKtor_utilsPipelinePhase *State __attribute__((swift_name("State")));
 @end
 
-__attribute__((swift_name("KermitLogWriter")))
-@interface ComposeAppKermitLogWriter : ComposeAppBase
-- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
-+ (instancetype)new __attribute__((availability(swift, unavailable, message="use object initializers instead")));
-- (void)aMessage:(NSString *)message tag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable __attribute__((swift_name("a(message:tag:throwable:)")));
-- (void)dMessage:(NSString *)message tag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable __attribute__((swift_name("d(message:tag:throwable:)")));
-- (void)eMessage:(NSString *)message tag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable __attribute__((swift_name("e(message:tag:throwable:)")));
-- (void)iMessage:(NSString *)message tag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable __attribute__((swift_name("i(message:tag:throwable:)")));
-- (BOOL)isLoggableSeverity:(ComposeAppKermitSeverity *)severity __attribute__((swift_name("isLoggable(severity:)")));
-- (void)logSeverity:(ComposeAppKermitSeverity *)severity message:(NSString *)message tag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable __attribute__((swift_name("log(severity:message:tag:throwable:)")));
-- (void)vMessage:(NSString *)message tag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable __attribute__((swift_name("v(message:tag:throwable:)")));
-- (void)wMessage:(NSString *)message tag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable __attribute__((swift_name("w(message:tag:throwable:)")));
-@end
-
 __attribute__((swift_name("Kotlinx_serialization_coreCompositeEncoder")))
 @protocol ComposeAppKotlinx_serialization_coreCompositeEncoder
 @required
@@ -2092,6 +2144,20 @@ __attribute__((swift_name("Kotlinx_serialization_coreCompositeDecoder")))
 __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("KotlinNothing")))
 @interface ComposeAppKotlinNothing : ComposeAppBase
+@end
+
+__attribute__((swift_name("KermitLogWriter")))
+@interface ComposeAppKermitLogWriter : ComposeAppBase
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
++ (instancetype)new __attribute__((availability(swift, unavailable, message="use object initializers instead")));
+- (void)aMessage:(NSString *)message tag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable __attribute__((swift_name("a(message:tag:throwable:)")));
+- (void)dMessage:(NSString *)message tag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable __attribute__((swift_name("d(message:tag:throwable:)")));
+- (void)eMessage:(NSString *)message tag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable __attribute__((swift_name("e(message:tag:throwable:)")));
+- (void)iMessage:(NSString *)message tag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable __attribute__((swift_name("i(message:tag:throwable:)")));
+- (BOOL)isLoggableSeverity:(ComposeAppKermitSeverity *)severity __attribute__((swift_name("isLoggable(severity:)")));
+- (void)logSeverity:(ComposeAppKermitSeverity *)severity message:(NSString *)message tag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable __attribute__((swift_name("log(severity:message:tag:throwable:)")));
+- (void)vMessage:(NSString *)message tag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable __attribute__((swift_name("v(message:tag:throwable:)")));
+- (void)wMessage:(NSString *)message tag:(NSString *)tag throwable:(ComposeAppKotlinThrowable * _Nullable)throwable __attribute__((swift_name("w(message:tag:throwable:)")));
 @end
 
 __attribute__((objc_subclassing_restricted))
